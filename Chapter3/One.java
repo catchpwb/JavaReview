@@ -1,3 +1,6 @@
+/*Write a program that reads the duration of time from the user, and converts it into
+the corresponding number of seconds, minutes, and hours
+ */
 package Chapter3;
 
 import java.util.Scanner;
